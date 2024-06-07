@@ -40,6 +40,9 @@
    Discord <https://discord.gg/uJN7TYcpNa>
    Linkedin <https://www.linkedin.com/company/scrapegraphai/>
    Twitter <https://twitter.com/scrapegraphai>
+   facebook <https://facebook.com/scrapegraphai>
+   tinder   https://tinder.com/scrapegraphai 
+
 
 Indices and tables
 ==================
